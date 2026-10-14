@@ -49,12 +49,12 @@ Para cumplir con esta consigna, su equipo deberá formular una solución pequeñ
 | Campo | Respuesta detallada del equipo |
 | --- | --- |
 | **Problema** | Cuesta organizar los turnos para paciente sin duplicado |
-| **Usuario** |  |
-| **Objetivo** |  |
-| **Funcionalidades incluidas** |  |
-| **Funcionalidades excluidas** |  |
-| **Criterio de éxito** |  |
-| **Supuestos y restricciones** |  |
+| **Usuario** | Secretaria/o recepcionnista |
+| **Objetivo** | Registrar o asignar turnos a pacientes sin tener problemas de duplicados |
+| **Funcionalidades incluidas** | Registrar un turno indicando fecha, hora y nombre de paciente ficticio.<br>Cambiar o cancelar un turno existente en la agenda.<br>Detectar y evitar turnos duplicados asignados para el mismo horario y profesional. |
+| **Funcionalidades excluidas** | Historias clinicas, gestion de obras sociales y pagos. |
+| **Criterio de éxito** | Rechazo al 100% de los intentos de duplicacion de horarios. |
+| **Supuestos y restricciones** | odos los datos de pacientes seran estrictamente ficticios y las pruebas se realizan en el prototipo. |
 
 ### Planilla 2. Funcionalidades y pruebas
 
